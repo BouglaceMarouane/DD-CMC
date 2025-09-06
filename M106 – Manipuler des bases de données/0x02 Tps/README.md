@@ -1,4 +1,4 @@
-## Module M106 : Manipuler des bases de données
+## Module M106 : Manipuler des bases de données 
 
 ### Travaux Pratiques (TP)
 Ce module propose des TP sur la conception et la manipulation de bases de données relationnelles avec SQL. Les étudiants apprendront à créer des tables, effectuer des opérations CRUD et interagir avec les bases de données.
