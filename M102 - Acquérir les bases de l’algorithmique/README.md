@@ -26,4 +26,4 @@ Créé par **@BouglaceMarouane**, stagiaire en **Développement Digital** à la 
 
 ---
 
-Ce dossier est destiné à aider les étudiants à naviguer à travers le module M102Développer la logique de programmation pour préparer l’apprentissage des langages. et à maximiser leur compréhension des sujets abordés.
+Ce dossier est destiné à aider les étudiants à naviguer à travers le module M102 Développer la logique de programmation pour préparer l’apprentissage des langages. et à maximiser leur compréhension des sujets abordés.
