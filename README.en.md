@@ -17,6 +17,37 @@
 ## 📌 Introduction  
 This repository gathers all resources, courses, summaries, practical work, exams, and additional documents related to the **first year of the Digital Development program** at Cités des Métiers et des Compétences (CMC). Structured around **8 core modules**, the repository is designed as a companion tool to help students **learn, practice, and review** the foundations of both web and software development.  
 
+## 🚀 Installation and Setup
+
+### Prerequisites
+Before starting to use this repository, make sure you have installed the following tools according to the modules you want to study:
+
+#### Basic Tools
+- **Git**: To clone and manage the repository  
+- **A code editor**: VS Code, Sublime Text, or any other editor of your choice  
+- **A web browser**: Chrome, Firefox, Safari, or Edge  
+
+### Repository Installation
+
+1. **Clone the repository**
+```bash
+git clone https://github.com/BouglaceMarouane/DD-CMC.git
+cd DD-CMC
+```
+2. **Recommended structure for your projects**
+```bash
+# Create a folder for your personal projects
+mkdir my-projects
+cd my-projects
+
+# Example structure for each module
+mkdir python-projects    # For M102, M103
+mkdir web-static          # For M104
+mkdir javascript-projects # For M105
+mkdir database-projects   # For M106
+mkdir php-projects        # For M107
+```
+
 ## 📂 Repository Structure  
 The repository is organized into 8 modules, each with its own folder. Inside each folder, you’ll find sub-sections for lecture notes, exercises, projects, and assessments to keep everything clear and accessible.  
 

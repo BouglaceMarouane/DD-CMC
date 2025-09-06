@@ -17,8 +17,40 @@
 ## 📌 Introduction  
 Ce dépôt rassemble toutes les ressources, cours, résumés, travaux pratiques, examens et documents supplémentaires relatifs à la **première année du programme Développement Digital** aux Cités des Métiers et des Compétences (CMC). Structuré autour de **8 modules principaux**, le dépôt est conçu comme un outil d’accompagnement pour aider les étudiants à **apprendre, pratiquer et réviser** les bases du développement web et logiciel.  
 
+## 🚀 Installation et Configuration
+
+### Prérequis
+Avant de commencer à utiliser ce dépôt, assurez-vous d'avoir installé les outils suivants selon les modules que vous souhaitez étudier :
+
+#### Outils de Base
+- **Git** : Pour cloner et gérer le dépôt
+- **Un éditeur de code** : VS Code, Sublime Text, ou tout autre éditeur de votre choix
+- **Un navigateur web** : Chrome, Firefox, Safari, ou Edge
+
+### Installation du Dépôt
+
+1. **Cloner le dépôt**
+```bash
+git clone https://github.com/BouglaceMarouane/DD-CMC.git
+cd DD-CMC
+```
+
+2. **Structure recommandée pour vos projets**
+```bash
+# Créez un dossier pour vos projets personnels
+mkdir mes-projets
+cd mes-projets
+
+# Exemples de structure pour chaque module
+mkdir python-projects    # Pour M102, M103
+mkdir web-static        # Pour M104
+mkdir javascript-projects # Pour M105
+mkdir database-projects  # Pour M106
+mkdir php-projects      # Pour M107
+```
+
 ## 📂 Structure du Dépôt  
-Le dépôt est organisé en 8 modules, chacun possédant son propre dossier. À l’intérieur de chaque dossier, vous trouverez des sous-sections pour les notes de cours, exercices, projets et évaluations afin de garder tout clair et accessible.  
+Le dépôt est organisé en 8 modules, chacun possédant son propre dossier. À l'intérieur de chaque dossier, vous trouverez des sous-sections pour les notes de cours, exercices, projets et évaluations afin de garder tout clair et accessible.  
 
 ## 📚 Modules  
 
