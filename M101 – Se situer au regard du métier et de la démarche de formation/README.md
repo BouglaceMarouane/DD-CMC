@@ -1,8 +1,7 @@
 # Module M101 : Se situer au regard du métier et de la démarche de formation (15h)  
 
 ## Description
-Le module M101 fait partie du programme de formation en **Développement Digital** à la Cités des Métiers et des Compétences (CMC).  
-Il offre une vue d'ensemble des métiers du développement web et logiciel, des compétences requises, ainsi que des modalités de formation.
+Le module M101 fait partie du programme de formation en **Développement Digital** à la Cités des Métiers et des Compétences (CMC). Il offre une vue d'ensemble des métiers du développement web et logiciel, des compétences requises, ainsi que des modalités de formation.
 
 ## Structure du Dossier
 Ce dossier est organisé en plusieurs sous-dossiers pour faciliter l'accès aux différents types de documents et ressources associés à ce module :  
