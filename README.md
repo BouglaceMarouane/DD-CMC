@@ -11,8 +11,6 @@ Structured around **8 core modules**, the repository is designed as a companion 
 ## 📂 Repository Structure  
 The repository is organized into 8 modules, each with its own folder. Inside each folder, you’ll find sub-sections for lecture notes, exercises, projects, and assessments to keep everything clear and accessible.  
 
----
-
 ## 📚 Modules  
 
 - **M101 – Understanding the Profession and Training Path (15h)**  
