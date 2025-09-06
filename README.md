@@ -42,16 +42,13 @@ The repository is organized into 8 modules, each with its own folder. Inside eac
 ---
 
 ## 🎯 Objective  
-This repository aims to **centralize and simplify access to first-year Digital Development resources** at CMC. It serves as:  
-- A **revision guide** for exams and evaluations.  
-- A **reference library** for practical projects.  
-- A **launchpad** for students aiming to deepen their web and software development skills.  
+
+This repository aims to centralize all the resources needed to succeed in the first year of *Digital Development* studies at CMC. It is designed to serve as a revision tool, a reference guide, and a source of inspiration for students.
 
 ---
 
 ## 👤 Contributor  
-🚀 Curated and shared by **[Your Name]**, passionate about building innovative digital solutions and supporting the next generation of developers at CMC.  
 
-This repository is maintained as a **community-driven learning hub**, helping students gain confidence in programming, web development, and digital security.  
+🚀 Curated and shared by **@BouglaceMarouane**, Digital Development trainee at CMC and a passionate about building innovative digital solutions and supporting the next generation of developers at CMC.  
 
 ---
