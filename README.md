@@ -1,6 +1,6 @@
 # DD-CMC : First Year in Digital Development at Cités des Métiers et des Compétences  
 
-` ✨ *From Code to Creation: Kickstarting the Future of Web and Software Development* ✨ `
+`` ✨ *From Code to Creation: Kickstarting the Future of Web and Software Development* ✨ ``
 
 ## 📌 Introduction  
 This repository gathers all resources, courses, summaries, practical work, exams, and additional documents related to the **first year of the Digital Development program** at Cités des Métiers et des Compétences (CMC). Structured around **8 core modules**, the repository is designed as a companion tool to help students **learn, practice, and review** the foundations of both web and software development.  
