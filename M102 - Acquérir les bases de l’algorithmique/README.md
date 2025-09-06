@@ -7,13 +7,13 @@ Le module M102 fait partie du programme de formation en **Développement Digital
 Ce dossier est organisé en plusieurs sous-dossiers pour faciliter l'accès aux différents types de documents et ressources associés à ce module :  
 
 - **Cours**  
-  - Cours PDF : Tous les cours sous forme de documents PDF.
+  - [Cours PDF](https://github.com/BouglaceMarouane/DD-CMC/tree/main/M102%20-%20Acqu%C3%A9rir%20les%20bases%20de%20l%E2%80%99algorithmique/0x01%20Cours) : Tous les cours sous forme de documents PDF.
 
 - **TPs**  
-  - Travaux Pratiques : Les exercices et projets réalisés au cours du module pour appliquer les connaissances acquises.  
+  - [Travaux Pratiques ](https://github.com/BouglaceMarouane/DD-CMC/tree/main/M102%20-%20Acqu%C3%A9rir%20les%20bases%20de%20l%E2%80%99algorithmique/0x03%20Ressources) : Les exercices et projets réalisés au cours du module pour appliquer les connaissances acquises.  
 
 - **Ressources**  
-  - Ressources supplémentaires pour approfondir les connaissances liées au module.  
+  - [Ressources](https://github.com/BouglaceMarouane/DD-CMC/tree/main/M101%20%E2%80%93%20Se%20situer%20au%20regard%20du%20m%C3%A9tier%20et%20de%20la%20d%C3%A9marche%20de%20formation/0x03%20Ressources) supplémentaires pour approfondir les connaissances liées au module.  
 
 ## Objectifs du Module
 - Comprendre ce qu’est un algorithme et son rôle dans le développement logiciel.  

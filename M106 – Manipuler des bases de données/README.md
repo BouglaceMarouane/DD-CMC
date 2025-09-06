@@ -7,13 +7,13 @@ Le module M106 fait partie du programme de formation en **Développement Digital
 Ce dossier est organisé en plusieurs sous-dossiers pour faciliter l'accès aux différents types de documents et ressources associés à ce module :  
 
 - **Cours**  
-  - Cours PDF : Tous les cours sous forme de documents PDF.
+  - [Cours PDF](https://github.com/BouglaceMarouane/DD-CMC/tree/main/M106%20%E2%80%93%20Manipuler%20des%20bases%20de%20donn%C3%A9es/0x01%20Cours) : Tous les cours sous forme de documents PDF.
 
 - **TPs**  
-  - Travaux Pratiques : Les exercices et projets réalisés au cours du module pour appliquer les connaissances acquises.  
+  - [Travaux Pratiques ](https://github.com/BouglaceMarouane/DD-CMC/tree/main/M106%20%E2%80%93%20Manipuler%20des%20bases%20de%20donn%C3%A9es/0x02%20Tps) : Les exercices et projets réalisés au cours du module pour appliquer les connaissances acquises.  
 
 - **Ressources**  
-  - Ressources supplémentaires pour approfondir les connaissances liées au module.  
+  - [Ressources](https://github.com/BouglaceMarouane/DD-CMC/tree/main/M106%20%E2%80%93%20Manipuler%20des%20bases%20de%20donn%C3%A9es/0x03%20Ressources) supplémentaires pour approfondir les connaissances liées au module.  
 
 ## Objectifs du Module
 - Comprendre le modèle relationnel et la structure d’une base de données.  
