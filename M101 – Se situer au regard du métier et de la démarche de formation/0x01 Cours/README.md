@@ -2,12 +2,12 @@
 
 ## Sommaire
 1. **Découvrir les métiers du Développement Digital**  
-  - S’informer sur le marché du travail  
-  - Se renseigner sur les compétences métier  
+    - S’informer sur le marché du travail  
+    - Se renseigner sur les compétences métier  
 2. **Identifier les modalités de formation**  
-  - Comprendre les objectifs de la formation  
-  - Situer les compétences de la formation  
-  - Projeter sa formation dans le milieu professionnel  
+    - Comprendre les objectifs de la formation  
+    - Situer les compétences de la formation  
+    - Projeter sa formation dans le milieu professionnel  
 
 ---
 
