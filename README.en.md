@@ -5,7 +5,7 @@
   <a href="README.md">
     <img alt="English" src="https://img.shields.io/badge/English-🇬🇧-blue?style=for-the-badge">
   </a>
-  <a href="README.fr.md">
+  <a href="README.en.md">
     <img alt="Français" src="https://img.shields.io/badge/Français-🇫🇷-red?style=for-the-badge">
   </a>
 </p>
