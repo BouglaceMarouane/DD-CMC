@@ -43,10 +43,7 @@ The repository is organized into 8 modules, each with its own folder. Inside eac
 
 This repository aims to centralize all the resources needed to succeed in the first year of *Digital Development* studies at CMC. It is designed to serve as a revision tool, a reference guide, and a source of inspiration for students.
 
----
-
 ## 👤 Contributor  
 
 🚀 Curated and shared by **@BouglaceMarouane**, Digital Development trainee at CMC and a passionate about building innovative digital solutions and supporting the next generation of developers at CMC.  
 
----
