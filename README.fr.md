@@ -1,7 +1,14 @@
 # DD-CMC : Première Année en Développement Digital aux Cités des Métiers et des Compétences  
 
-🌐 **Langues / Languages :**  
-[Français](README.fr.md) | [English](README.md)  
+<!-- Language Switch Buttons -->
+<p align="center">
+  <a href="README.fr.md">
+    <img alt="Français" src="https://img.shields.io/badge/Français-🇫🇷-red?style=for-the-badge">
+  </a>
+  <a href="README.md">
+    <img alt="English" src="https://img.shields.io/badge/English-🇬🇧-blue?style=for-the-badge">
+  </a>
+</p>
 
 ✨ *Du Code à la Création : Lancer le Futur du Développement Web et Logiciel* ✨
 
