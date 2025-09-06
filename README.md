@@ -1,6 +1,11 @@
 # DD-CMC : First Year in Digital Development at Cités des Métiers et des Compétences  
 
+🌐 **Languages / Langues :**  
+[English](README.md) | [Français](README.fr.md)  
+
 ✨ *From Code to Creation: Kickstarting the Future of Web and Software Development* ✨
+
+---
 
 ## 📌 Introduction  
 This repository gathers all resources, courses, summaries, practical work, exams, and additional documents related to the **first year of the Digital Development program** at Cités des Métiers et des Compétences (CMC). Structured around **8 core modules**, the repository is designed as a companion tool to help students **learn, practice, and review** the foundations of both web and software development.  
@@ -14,7 +19,7 @@ The repository is organized into 8 modules, each with its own folder. Inside eac
   - Introduction to the digital development profession, career opportunities, and the training methodology.  
 
 - **M102 – Learning the Fundamentals of Algorithms (120h)**  
-  - Core algorithmic principles to build a problem-solving mindset before coding (with python in this module).  
+  - Core algorithmic principles to build a problem-solving mindset before coding (with Python in this module).  
 
 - **M103 – Object-Oriented Programming (120h)**  
   - Concepts of OOP to design scalable and reusable software solutions.  
@@ -42,5 +47,4 @@ This repository aims to centralize all the resources needed to succeed in the fi
 
 ## 👤 Contributor  
 
-🚀 Curated and shared by **@BouglaceMarouane**, Digital Development trainee at CMC and a passionate about building innovative digital solutions and supporting the next generation of developers at CMC.  
-
+🚀 Curated and shared by **@BouglaceMarouane**, Digital Development trainee at CMC and passionate about building innovative digital solutions and supporting the next generation of developers at CMC.
