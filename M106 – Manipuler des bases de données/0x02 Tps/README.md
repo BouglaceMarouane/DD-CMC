@@ -1,7 +1,8 @@
-# Module M101 : Se situer au regard du métier et de la démarche de formation
+## Module M106 : Manipuler des bases de données
 
-## Travaux Pratiques (TP)
-Ce module est principalement théorique et ne comprend pas de travaux pratiques (TP). Les évaluations se concentrent sur des contrôles et des examens pour tester la compréhension des concepts abordés.
+### Travaux Pratiques (TP)
+Ce module propose des TP sur la conception et la manipulation de bases de données relationnelles avec SQL. Les étudiants apprendront à créer des tables, effectuer des opérations CRUD et interagir avec les bases de données.
 
-## Contenu du Dossier
-Ce dossier est vide car le module M101 ne comporte pas de TP associés. Toutes les activités d'apprentissage sont basées sur des lectures théoriques, des discussions et des évaluations écrites.
+### Contenu du Dossier
+- TP de création et modification de tables SQL.
+- Exercices CRUD (Create, Read, Update, Delete).

@@ -1,7 +1,8 @@
-# Module M101 : Se situer au regard du métier et de la démarche de formation
+## Module M104 : Développer des sites web statiques
 
-## Travaux Pratiques (TP)
-Ce module est principalement théorique et ne comprend pas de travaux pratiques (TP). Les évaluations se concentrent sur des contrôles et des examens pour tester la compréhension des concepts abordés.
+### Travaux Pratiques (TP)
+Les TP de ce module consistent à créer des pages web statiques avec HTML et CSS. Les étudiants apprendront à structurer le contenu, appliquer le style et créer des pages fonctionnelles.
 
-## Contenu du Dossier
-Ce dossier est vide car le module M101 ne comporte pas de TP associés. Toutes les activités d'apprentissage sont basées sur des lectures théoriques, des discussions et des évaluations écrites.
+### Contenu du Dossier
+- Exercices de structuration HTML. 
+- Mise en forme avec CSS (polices, couleurs, layout).

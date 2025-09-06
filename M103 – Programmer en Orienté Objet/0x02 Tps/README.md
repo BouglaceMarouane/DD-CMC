@@ -1,7 +1,10 @@
-# Module M101 : Se situer au regard du métier et de la démarche de formation
 
-## Travaux Pratiques (TP)
-Ce module est principalement théorique et ne comprend pas de travaux pratiques (TP). Les évaluations se concentrent sur des contrôles et des examens pour tester la compréhension des concepts abordés.
+## Module M103 : Programmer en Orienté Objet
 
-## Contenu du Dossier
-Ce dossier est vide car le module M101 ne comporte pas de TP associés. Toutes les activités d'apprentissage sont basées sur des lectures théoriques, des discussions et des évaluations écrites.
+### Travaux Pratiques (TP)
+Ce module comprend des TP pour appliquer la programmation orientée objet (POO). Les étudiants créeront des classes, des objets, géreront l’héritage et mettront en pratique le polymorphisme.
+
+### Contenu du Dossier
+- Création de classes et objets simples  
+- TP sur l’héritage et le polymorphisme  
+- Exercices pratiques sur la conception d’applications modulaires

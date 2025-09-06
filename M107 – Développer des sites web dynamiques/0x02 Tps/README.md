@@ -1,7 +1,8 @@
-# Module M101 : Se situer au regard du métier et de la démarche de formation
+## Module M107 : Développer des sites web dynamiques
 
-## Travaux Pratiques (TP)
-Ce module est principalement théorique et ne comprend pas de travaux pratiques (TP). Les évaluations se concentrent sur des contrôles et des examens pour tester la compréhension des concepts abordés.
+### Travaux Pratiques (TP)
+Les TP de ce module consistent à créer des sites web dynamiques en intégrant back-end et base de données. Les étudiants apprendront à générer des pages dynamiques et gérer les interactions utilisateur.
 
-## Contenu du Dossier
-Ce dossier est vide car le module M101 ne comporte pas de TP associés. Toutes les activités d'apprentissage sont basées sur des lectures théoriques, des discussions et des évaluations écrites.
+### Contenu du Dossier
+- TP PHP/MySQL ou Node.js pour générer des pages dynamiques.  
+- Exercices sur les formulaires et les sessions.

@@ -1,7 +1,9 @@
-# Module M101 : Se situer au regard du métier et de la démarche de formation
+## Module M102 : Acquérir les bases de l’algorithmique
 
-## Travaux Pratiques (TP)
-Ce module est principalement théorique et ne comprend pas de travaux pratiques (TP). Les évaluations se concentrent sur des contrôles et des examens pour tester la compréhension des concepts abordés.
+### Travaux Pratiques (TP)
+Ce module comprend des TP pratiques consistant à concevoir et tester des algorithmes simples. Les étudiants devront résoudre des exercices sur le pseudo-code, les conditions, les boucles et les fonctions.
 
-## Contenu du Dossier
-Ce dossier est vide car le module M101 ne comporte pas de TP associés. Toutes les activités d'apprentissage sont basées sur des lectures théoriques, des discussions et des évaluations écrites.
+### Contenu du Dossier
+- Exercices d’algorithmique (pseudo-code et diagrammes de flux)  
+- Résolutions de problèmes avec boucles et conditions  
+- Tests et corrections des solutions proposées
