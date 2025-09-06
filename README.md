@@ -3,8 +3,7 @@
 ` ✨ *From Code to Creation: Kickstarting the Future of Web and Software Development* ✨ `
 
 ## 📌 Introduction  
-This repository gathers all resources, courses, summaries, practical work, exams, and additional documents related to the **first year of the Digital Development program** at Cités des Métiers et des Compétences (CMC).  
-Structured around **8 core modules**, the repository is designed as a companion tool to help students **learn, practice, and review** the foundations of both web and software development.  
+This repository gathers all resources, courses, summaries, practical work, exams, and additional documents related to the **first year of the Digital Development program** at Cités des Métiers et des Compétences (CMC). Structured around **8 core modules**, the repository is designed as a companion tool to help students **learn, practice, and review** the foundations of both web and software development.  
 
 ## 📂 Repository Structure  
 The repository is organized into 8 modules, each with its own folder. Inside each folder, you’ll find sub-sections for lecture notes, exercises, projects, and assessments to keep everything clear and accessible.  
