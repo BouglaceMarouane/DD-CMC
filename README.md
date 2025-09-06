@@ -87,3 +87,7 @@ Ce dépôt a pour but de centraliser toutes les ressources nécessaires pour ré
 ## 👤 Contributeur  
 
 🚀 Curaté et partagé par [**@BouglaceMarouane**](https://github.com/BouglaceMarouane), stagiaire en Développement Digital à la CMC, passionné par la création de solutions digitales innovantes et le soutien à la prochaine génération de développeurs à la CMC.
+
+---
+
+Ce repository est maintenu pour aider les étudiants en Développement Digital à la CMC à accéder facilement aux documents et ressources nécessaires à leur formation.

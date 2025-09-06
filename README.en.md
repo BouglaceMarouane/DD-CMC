@@ -86,3 +86,7 @@ This repository aims to centralize all the resources needed to succeed in the fi
 ## 👤 Contributor  
 
 🚀 Curated and shared by [**@BouglaceMarouane**](https://github.com/BouglaceMarouane), Digital Development trainee at CMC and passionate about building innovative digital solutions and supporting the next generation of developers at CMC.
+
+---
+
+This repository is maintained to help Digital Development students at CMC easily access the documents and resources necessary for their training.
