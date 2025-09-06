@@ -16,28 +16,28 @@ The repository is organized into 8 modules, each with its own folder. Inside eac
 ## 📚 Modules  
 
 - **M101 – Understanding the Profession and Training Path (15h)**  
-  Introduction to the digital development profession, career opportunities, and the training methodology.  
+  - Introduction to the digital development profession, career opportunities, and the training methodology.  
 
 - **M102 – Learning the Fundamentals of Algorithms (120h)**  
-  Core algorithmic principles to build a problem-solving mindset before coding.  
+  - Core algorithmic principles to build a problem-solving mindset before coding (with python in this module).  
 
 - **M103 – Object-Oriented Programming (120h)**  
-  Concepts of OOP to design scalable and reusable software solutions.  
+  - Concepts of OOP to design scalable and reusable software solutions.  
 
 - **M104 – Building Static Websites (90h)**  
-  HTML & CSS fundamentals to create well-structured and responsive static pages.  
+  - HTML & CSS fundamentals to create well-structured and responsive static pages.  
 
 - **M105 – Programming in JavaScript (120h)**  
-  Exploring JavaScript for dynamic interactions and client-side development.  
+  - Exploring JavaScript for dynamic interactions and client-side development.  
 
 - **M106 – Working with Databases (105h)**  
-  Relational databases, SQL, and techniques to store and manage data efficiently.  
+  - Relational databases, SQL, and techniques to store and manage data efficiently.  
 
 - **M107 – Developing Dynamic Websites (120h)**  
-  From static to dynamic: integrating backend programming (PHP, server-side scripting) with databases.  
+  - From static to dynamic: integrating backend programming (PHP, server-side scripting) with databases.  
 
 - **M108 – Introduction to Information Systems Security (75h)**  
-  Basics of securing applications and systems against common threats.  
+  - Basics of securing applications and systems against common threats.  
 
 ---
 
