@@ -22,28 +22,28 @@ Le dépôt est organisé en 8 modules, chacun possédant son propre dossier. À 
 
 ## 📚 Modules  
 
-- **M101 – Comprendre le Métier et le Parcours de Formation (15h)**  
+- **M101 – Se situer au regard du métier et de la démarche de formation (15h)**  
   - Introduction au métier de développeur digital, opportunités de carrière et méthodologie de formation.  
 
-- **M102 – Apprendre les Fondamentaux des Algorithmes (120h)**  
+- **M102 – Acquérir les bases de l’algorithmique (120h)**  
   - Principes algorithmiques de base pour développer un esprit de résolution de problèmes avant de coder (avec Python dans ce module).  
 
-- **M103 – Programmation Orientée Objet (120h)**  
+- **M103 – Programmer en Orienté Objet (120h)**  
   - Concepts de POO pour concevoir des solutions logicielles évolutives et réutilisables.  
 
-- **M104 – Créer des Sites Web Statics (90h)**  
+- **M104 – Développer des sites web statiques (90h)**  
   - Fondamentaux HTML & CSS pour créer des pages statiques bien structurées et responsives.  
 
-- **M105 – Programmation en JavaScript (120h)**  
+- **M105 – Programmer en JavaScript (120h)**  
   - Exploration de JavaScript pour des interactions dynamiques et le développement côté client.  
 
-- **M106 – Travailler avec les Bases de Données (105h)**  
+- **M106 – Manipuler des bases de données (105h)**  
   - Bases de données relationnelles, SQL et techniques pour stocker et gérer efficacement les données.  
 
-- **M107 – Développer des Sites Web Dynamiques (120h)**  
+- **M107 – Développer des sites web dynamiques (120h)**  
   - Du statique au dynamique : intégration de la programmation backend (PHP, scripts côté serveur) avec les bases de données.  
 
-- **M108 – Introduction à la Sécurité des Systèmes d’Information (75h)**  
+- **M108 – S’initier à la sécurité des systèmes d’information (75h)**  
   - Notions de base pour sécuriser les applications et systèmes contre les menaces courantes.  
 
 ---
